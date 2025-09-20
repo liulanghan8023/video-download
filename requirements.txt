@@ -9,6 +9,6 @@ browser-cookie3==0.19.1
 importlib_resources==6.4.0
 tenacity~=9.0.0
 aiofiles==23.2.1
-fastapi==0.110.20
-uvicorn==0.35.0
+fastapi==0.110.2
+uvicorn==0.29.0
 requests==2.32.5
